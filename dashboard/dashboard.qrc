@@ -1,0 +1,31 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/fuel-icon.png</file>
+        <file>images/temperature-icon.png</file>
+        <file>qml/dashboard.qml</file>
+        <file>qml/renault4Ldashboard.qml</file>
+        <file>qml/DashboardGaugeStyle.qml</file>
+        <file>qml/IconGaugeStyle.qml</file>
+        <file>qml/TachometerStyle.qml</file>
+        <file>qml/TurnIndicator.qml</file>
+        <file>qml/ValueSource.qml</file>
+        <file>qml/Renault4LDashboardGaugeStyle.qml</file>
+        <file>qml/SignalLight.qml</file>
+        <file>images/rear-defrost-icon.png</file>
+        <file>images/brakepad-icon.png</file>
+        <file>images/temperature2-icon.png</file>
+        <file>images/oilpressure-icon.png</file>
+        <file>images/highbeams-icon.png</file>
+        <file>images/headlights-icon.png</file>
+        <file>images/glow-plug-icon.png</file>
+        <file>images/low-battery-icon.png</file>
+        <file>images/brake-alert-icon.png</file>
+        <file>images/starter-icon.png</file>
+        <file>images/blinkers-icon.png</file>
+        <file>images/rear-foglights-icon.png</file>
+        <file>images/hazard-lights-icon.png</file>
+        <file>qml/Renault4LFuelGauge.qml</file>
+        <file>qml/Spinner.qml</file>
+        <file>qml/SmallSpinner.qml</file>
+    </qresource>
+</RCC>
